@@ -1,0 +1,48 @@
+{
+  "en": {
+    "dengue": {
+      "symptoms": ["High fever", "Severe headache", "Pain behind eyes", "Muscle/joint pain", "Rash"],
+      "prevention": ["Avoid mosquito bites", "Use nets/repellent", "Eliminate standing water", "Wear long sleeves"],
+      "dont": ["Avoid NSAIDs unless doctor advises", "Don’t ignore persistent bleeding"],
+      "red_flags": ["Bleeding gums/nose", "Severe abdominal pain", "Persistent vomiting", "Lethargy"],
+      "help": ["National helpline: 1075", "Seek nearest PHC if red-flags present"]
+    },
+    "malaria": {
+      "symptoms": ["Fever (often with chills)", "Sweats", "Headache", "Nausea/vomiting", "Fatigue"],
+      "prevention": ["Mosquito nets", "Repellent", "Eliminate breeding sites", "Prophylaxis if advised"],
+      "dont": ["Don’t delay testing after fever with chills", "Don’t self-medicate heavily"],
+      "red_flags": ["Confusion", "Severe weakness", "Breathing difficulty", "Jaundice"],
+      "help": ["Call 1075 or visit nearest government facility for a blood test"]
+    },
+    "tb": {
+      "symptoms": ["Cough >2 weeks", "Fever/night sweats", "Weight loss", "Chest pain"],
+      "prevention": ["Cover cough", "Ventilation/sunlight", "Nutrition", "Complete treatment if prescribed"],
+      "dont": ["Don’t stop medicines early", "Don’t ignore long cough"],
+      "red_flags": ["Coughing blood", "Severe breathlessness", "High persistent fever"],
+      "help": ["Nikshay Helpline: 1800-11-6666", "Visit nearest DOTS center"]
+    }
+  },
+  "hi": {
+    "dengue": {
+      "symptoms": ["तेज़ बुखार", "तेज़ सिरदर्द", "आँखों के पीछे दर्द", "मांसपेशियों/जोड़ों में दर्द", "चकत्ते"],
+      "prevention": ["मच्छरों से बचें", "जाल/प्रतिरोधक लगाएँ", "रुका हुआ पानी हटाएँ", "पूरी बाँह के कपड़े"],
+      "dont": ["डॉक्टर की सलाह बिना NSAIDs न लें", "लगातार रक्तस्राव को नज़रअंदाज़ न करें"],
+      "red_flags": ["मसूड़ों/नाक से खून", "तेज़ पेट दर्द", "लगातार उल्टी", "बेहद थकान/सुस्ती"],
+      "help": ["राष्ट्रीय हेल्पलाइन: 1075", "लक्षण गंभीर हों तो नज़दीकी PHC जाएँ"]
+    },
+    "malaria": {
+      "symptoms": ["बुखार (अक्सर ठंड के साथ)", "पसीना", "सिरदर्द", "उल्टी/मिचली", "कमज़ोरी"],
+      "prevention": ["मच्छरदानी", "प्रतिरोधक", "पानी जमा न होने दें", "ज़रूरत पर रोकथाम दवा"],
+      "dont": ["ठंड के साथ बुखार में जाँच में देरी न करें", "ख़ुद से भारी दवा न लें"],
+      "red_flags": ["भ्रम/बेहोशी", "बहुत अधिक कमज़ोरी", "सांस लेने में दिक्कत", "त्वचा/आँखें पीली"],
+      "help": ["1075 पर कॉल करें या सरकारी सुविधा में ब्लड टेस्ट कराएँ"]
+    },
+    "tb": {
+      "symptoms": ["2 सप्ताह से अधिक खाँसी", "रात में पसीना/बुखार", "वज़न घटना", "सीने में दर्द"],
+      "prevention": ["खाँसी ढकें", "हवादार कमरे/धूप", "संतुलित भोजन", "दवा का पूरा कोर्स"],
+      "dont": ["दवाएँ बीच में न छोड़ें", "लंबी खाँसी को अनदेखा न करें"],
+      "red_flags": ["खून वाली खाँसी", "सांस में तकलीफ़", "लगातार तेज़ बुखार"],
+      "help": ["निक्षय हेल्पलाइन: 1800-11-6666", "नज़दीकी DOTS केंद्र जाएँ"]
+    }
+  }
+}
